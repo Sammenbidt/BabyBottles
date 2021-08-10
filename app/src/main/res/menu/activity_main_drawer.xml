@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_daily"
+            android:icon="@drawable/milk_bottle_64"
+            android:title="@string/daily" />
+        <item
+            android:id="@+id/nav_diapers"
+            android:icon="@drawable/baby_64"
+            android:title="@string/diapers" />
+
+        <!--
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Slideshow" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Tools" />
+
+            -->
+    </group>
+
+    <item android:title="@string/extra">
+        <menu>
+            <item
+                android:id="@+id/nav_exportDB"
+                android:icon="@drawable/ic_database_svgrepo_com"
+                android:title="ExportDB" />
+        </menu>
+    </item>
+
+</menu>

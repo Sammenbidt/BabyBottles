@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Baby Flasker</string>
+    <string name="navigation_drawer_open">Åben navigations skuffe</string>
+    <string name="navigation_drawer_close">Luk navigations skuffe</string>
+    <string name="nav_header_title">Flaske Oversigt</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="daily_bottles">Daglige Flasker</string>
+    <string name="weekly_bottles">Ugentlig Oversigt</string>
+    <string name="create_bottle">Opret Flaske</string>
+    <string name="edit_bottle">Rediger Flaske</string>
+    <string name="amount">Mængde</string>
+    <string name="daily">Daglige</string>
+    <string name="extra">Ekstra</string>
+    <string name="latest_bottle">Sidste Flaske</string>
+    <string name="actions_chose_date">Dato</string>
+    <string name="diapers">Bleer</string>
+    <string name="create_diaper">Opret Ble</string>
+</resources>
